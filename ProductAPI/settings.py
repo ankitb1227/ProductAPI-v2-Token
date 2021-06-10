@@ -137,5 +137,3 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # from ProductApp.models import Products
-#
-# AUTH_USER_MODEL = 'ProductApp.Products'
